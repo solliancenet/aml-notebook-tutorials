@@ -86,4 +86,4 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 
 2. Open the desired notebook.
 
-3. Follow the instructions within the notebook to complete the quickstart.
+3. Follow the instructions within the notebook to complete the tutorial.
