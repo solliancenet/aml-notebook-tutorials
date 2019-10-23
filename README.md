@@ -82,7 +82,7 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 
 # Exercise 3: Complete the Tutorials
 
-1. From the Jupyter Notebooks interface, navigate to the `tutorials` folder where you will find all your quickstart files.
+1. From the Jupyter Notebooks interface, navigate to the `tutorials` folder where you will find all your tutorial files.
 
 2. Open the desired notebook.
 
