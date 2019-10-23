@@ -6,9 +6,9 @@ Instructions are provided below for running these notebooks using Azure Machine 
 
 # Exercise 1: Setting up your environment 
 
-If a lab environment has not be provided for you, this lab provides the instructions to get started in your own Azure Subscription.
+If a lab environment has not be provided for you, this tutorial provides the instructions to get started in your own Azure Subscription.
 
-The labs have the following requirements:
+The tutorials have the following requirements:
 - Azure subscription. You will need a valid and active Azure account to complete this Azure lab. If you do not have one, you can sign up for a [free trial](https://azure.microsoft.com/en-us/free/).
 
 ## Azure Quotas Required
