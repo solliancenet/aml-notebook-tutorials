@@ -46,9 +46,13 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 
 ## Task 1: Create a Notebook VM
 
-1. Log into [Azure Portal](https://portal.azure.com/) and open the machine learning workspace: tutorials-ws-XXXXX or tutorials-ws.
+1. Log into the [Azure Machine Learning Web Experience](https://ml.azure.com) portal and select the directory, subscription, and Machine Learning workspace: tutorials-ws-XXXXX or tutorials-ws. 
+   
+    ![Sign-in to the Azure Machine Learning Web Experience](images/00.png)
 
-2. Select **Notebook VMs** in the left navigation and then select **New**.
+    Alternatively, log into [Azure Portal](https://portal.azure.com/), open the machine learning workspace: tutorials-ws-XXXXX or tutorials-ws, click on **Overview** and then on **Launch the studio now** (which will open the new Azure Machine Learning Web Experience).
+
+2. Select **Compute** in the left navigation, select **Notebook VMs** in the main pane, and then select **New**.
 
    ![Select Create New Notebook VM in Azure Portal](images/01.png)
 
